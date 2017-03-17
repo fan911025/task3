@@ -1,0 +1,32 @@
+.html,body{
+ /*清除边界空白部分*/
+    margin:0;
+    padding: 0;
+    background-color:#68CDD5;
+         }
+.arrows{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.logo{
+    text-align: center;
+}
+.text{
+	padding:18%;
+}
+.bottom{
+    text-align: center;	
+}
+.images{
+	padding-bottom:8%;
+}
+.left{
+    float: left;
+    margin-left: 15%;
+    padding-bottom:8%;
+}
+.right{
+	float:right;
+	margin-right:15%;
+	padding-bottom:8%;
+}
