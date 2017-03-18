@@ -1,7 +1,4 @@
-html{
-background-color:#FFF;    
-}
-body{
+.html,body{
  /*清除边界空白部分*/
     margin:0;
     padding: 0;
@@ -10,6 +7,9 @@ body{
     min-width:320px;
     margin:0 auto;
          }
+.case{
+background-color:#68CDD5;
+}
 .arrows{
     margin-top: 1%;
     margin-left: 1%;
